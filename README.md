@@ -1,5 +1,5 @@
 # COVID-19-Tweets
-Analysing COVID-19 tweets for sentiment analysis
+Exploring the COVID-19 tweets and doing sentiment analysis
 
 # Project Overview
 In this project we are using a tweet dataset has been collected using Twitter API and a Python script. A query for this high-frequency hashtag (#covid19) is run on a daily basis for a certain time period, to collect a larger number of tweets samples.
