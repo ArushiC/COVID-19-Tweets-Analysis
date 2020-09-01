@@ -11,6 +11,10 @@ Plotted a heatmap to see geographical distribution of tweets using Folium librar
 ![Tweets Concentration Heatmap](Images/heatmap.png?raw=true)
 
 Identified sentiments using NLTK Vader library
+<div align="center">
+    <img src="/Images/pie.png" width="100px" /> 
+</div>
+
 ![Sentiment Distribution](/Images/pie.png)
 
 Extracted entities from tweets and created a wordcloud
