@@ -8,13 +8,13 @@ The tweets have #covid19 hashtag. Collection started on 25/7/2020, with an initi
 
 # Sneekpeek into Key Insights:
 Plotted a heatmap to see geographical distribution of tweets using Folium library
-![Tweets Concentration Heatmap](https://github.com/ArushiC/COVID-19-Tweets-Analysis/tree/master/Images/heatmap.pmg?raw=true)
+![Tweets Concentration Heatmap](https://github.com/ArushiC/COVID-19-Tweets-Analysis/tree/master/Images/heatmap.png?raw=true)
 
 Identified sentiments using NLTK Vader library
-![Sentiment Distribution](/Images/pie.pmg?raw=true)
+![Sentiment Distribution](/Images/pie.png?raw=true)
 
 Extracted entities from tweets and created a wordcloud
-![Entities Wordcloud](/Images/wordcloud.pmg?raw=true)
+![Entities Wordcloud](/Images/wordcloud.png?raw=true)
 
 # Install
 This project requires Python 3.6 and the following Python libraries installed:
