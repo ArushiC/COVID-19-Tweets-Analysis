@@ -8,11 +8,9 @@ The tweets have #covid19 hashtag. Collection started on 25/7/2020, with an initi
 
 # Sneekpeek into Key Outputs:
 <div align="center">
-    <h2 align="center" Heatmap to see geographical distribution of tweets />
+    <b> Heatmap to see geographical distribution of tweets </b>
     <img src="/Images/heatmap.png" width="800px" alt="Tweets Concentration Heatmap" />  <br>
-    <b> Identified sentiments of the tweets and plotted the distribution </b>
     <img src="/Images/pie.png" width="600px" alt="Sentiment Distribution" />  <br>
-    <b> Extracted entities from tweets and created a wordcloud </b>
     <img src="/Images/wordcloud.png" width="800px" alt="Entities Wordcloud" /> 
 </div> <br>
 
