@@ -8,7 +8,7 @@ The tweets have #covid19 hashtag. Collection started on 25/7/2020, with an initi
 
 # Sneekpeek into Key Insights:
 Plotted a heatmap to see geographical distribution of tweets using Folium library
-![Tweets Concentration Heatmap](/Images/heatmap.pmg?raw=true)
+![Tweets Concentration Heatmap](https://github.com/ArushiC/COVID-19-Tweets-Analysis/tree/master/Images/heatmap.pmg?raw=true)
 
 Identified sentiments using NLTK Vader library
 ![Sentiment Distribution](/Images/pie.pmg?raw=true)
