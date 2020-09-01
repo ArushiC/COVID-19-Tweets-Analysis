@@ -9,10 +9,9 @@ The tweets have #covid19 hashtag. Collection started on 25/7/2020, with an initi
 # Sneekpeek into Key Insights:
 #### Heatmap to see geographical distribution of tweets
 <div align="center">
+    #### Heatmap to see geographical distribution of tweets
     <img src="/Images/heatmap.png" width="800px" alt="Tweets Concentration Heatmap" /> 
 </div>
-
-![Tweets Concentration Heatmap](Images/heatmap.png?raw=true =400x)
 
 #### Identified sentiments of the tweets and plotted the distribution
 <div align="center">
@@ -20,7 +19,9 @@ The tweets have #covid19 hashtag. Collection started on 25/7/2020, with an initi
 </div>
 
 #### Extracted entities from tweets and created a wordcloud
-![Entities Wordcloud](/Images/wordcloud.png?raw=true)
+<div align="center">
+    <img src="/Images/wordcloud.png" width="400px" alt="Entities Wordcloud" /> 
+</div>
 
 # Install
 This project requires Python 3.6 and the following Python libraries installed:
