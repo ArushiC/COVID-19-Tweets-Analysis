@@ -8,7 +8,7 @@ The tweets have #covid19 hashtag. Collection started on 25/7/2020, with an initi
 
 # Sneekpeek into Key Insights:
 #### Heatmap to see geographical distribution of tweets
-![Tweets Concentration Heatmap](Images/heatmap.png?raw=true)
+![Tweets Concentration Heatmap](Images/heatmap.png?raw=true =400x)
 
 #### Identified sentiments of the tweets and plotted the distribution
 <div align="center">
