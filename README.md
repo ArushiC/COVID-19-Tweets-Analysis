@@ -6,7 +6,7 @@ In this project we are using a tweet dataset has been collected using Twitter AP
 The collection script can be found here: https://github.com/gabrielpreda/covid-19-tweets
 The tweets have #covid19 hashtag. Collection started on 25/7/2020, with an initial 17k batch and will continue on a daily basis.
 
-# Sneekpeek into Key Outputs:
+# Sneak peek into Key Outputs:
 <div align="center">
     <b> Heatmap to see geographical distribution of tweets </b>
     <img src="/Images/heatmap.png" width="800px" alt="Tweets Concentration Heatmap" />  <br>
