@@ -7,19 +7,18 @@ The collection script can be found here: https://github.com/gabrielpreda/covid-1
 The tweets have #covid19 hashtag. Collection started on 25/7/2020, with an initial 17k batch and will continue on a daily basis.
 
 # Sneekpeek into Key Insights:
-#### Heatmap to see geographical distribution of tweets
 <div align="center">
     <b> Heatmap to see geographical distribution of tweets </b>
     <img src="/Images/heatmap.png" width="800px" alt="Tweets Concentration Heatmap" /> 
 </div>
 
-#### Identified sentiments of the tweets and plotted the distribution
 <div align="center">
+    <b> Identified sentiments of the tweets and plotted the distribution </b>
     <img src="/Images/pie.png" width="400px" alt="Sentiment Distribution" /> 
 </div>
 
-#### Extracted entities from tweets and created a wordcloud
 <div align="center">
+    <b> Extracted entities from tweets and created a wordcloud </b>
     <img src="/Images/wordcloud.png" width="800px" alt="Entities Wordcloud" /> 
 </div>
 
